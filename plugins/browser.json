@@ -1,0 +1,73 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "dcsis"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "dcsis"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "dcsis"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "dcsis"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "dcsis"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "dcsis"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "dcsis"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "dcsis"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "dcsis"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "dcsis"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "dcsis"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "dcsis"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "dcsis"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "dcsis"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "dcsis"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "dcsis"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "dcsis"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "dcsis"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "dcsis"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "dcsis"
+        }
+    }
+}
